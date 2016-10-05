@@ -80,4 +80,20 @@ body {
 
 ul {
   list-style-type: square;
+  width: 60%;
+  margin: auto;
 }
+
+div {
+  position: fixed;
+  top: 20;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+p {
+  width: 60%;
+  margin: auto;
+}
+
